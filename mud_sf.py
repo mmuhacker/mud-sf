@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# _mJgsnIPyVhTl_pkKpMPjQHzvI
-# _UMTyNAErubzH_LscwFpKtbIPw
+# _cOxgnppQJJZI_rOOtvbahIodz
+# _KlrMrUJwUPbt_wJKEkhPvQcrb
 
-import base64 as _KHycznkHSYyn
-import zlib as _hWQdvAkBbnhQ
-import sys as _TOFGVsFnovOR
+import base64 as _DFiEMDqdAyrI
+import zlib as _thaDjBnCCqQZ
+import sys as _NWzjwrwxhDcN
 
-_dGarPZDZlsBl = [
+_hMtrUiepwxcW = [
     'c-qBSTW=f36@KThm@p7_X-KP!lcFV{0!iDT0U9KT-G@RJh~e&#T#I|j&a5axAYduBs;UK=v`!NgDT*Sf',
     '8OfFmSG807m+Za;e9TjSLeH6<*<D_JNzoG0a(2#~%Y1Wg!`EM1jd`@%bp2K4?~<@DI)Q(+@;X_$vO?^@',
     'as76k#G<wGL!5#6&6oJVa&j$hI)O)BpS<Jx4vWa>)?Jc(l{`#_$tg*O>Bq@g@=y3az?a+UQSuFZ9|H9(',
@@ -43,8 +43,8 @@ _dGarPZDZlsBl = [
     'M?(tW=DWblwl7E6t$?EOa=xgoc!6#Le5%pF`)8velW?Pf&1<8fa&gwlR{jIM>fvq',
 ]
 
-_paaJYCCxYCPt = ''.join(_dGarPZDZlsBl)
-_vYrmBRHLUiJn = _KHycznkHSYyn.b85decode(_paaJYCCxYCPt.encode())
-_cQODMivDmhwB = _hWQdvAkBbnhQ.decompress(_vYrmBRHLUiJn).decode('utf-8')
+_oIHEPkVNNmll = ''.join(_hMtrUiepwxcW)
+_epjbocgBRrbq = _DFiEMDqdAyrI.b85decode(_oIHEPkVNNmll.encode())
+_vHoXrompgrHM = _thaDjBnCCqQZ.decompress(_epjbocgBRrbq).decode('utf-8')
 
-exec(compile(_cQODMivDmhwB, 'mud_sf.py', 'exec'))
+exec(compile(_vHoXrompgrHM, 'mud_sf.py', 'exec'))
