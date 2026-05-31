@@ -8,12 +8,12 @@
 
 ---
 
-![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Kali_Linux-green?style=for-the-badge&logo=kalilinux)
-![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
-![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT_License-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Version](https://img.shields.io/badge/1.0-%EF%BA%8D%EF%BB%B9%EF%BA%BB%EF%BA%AA%EF%BA%8D%EF%BA%AE-blue?style=for-the-badge)<br>
+![Platform](https://img.shields.io/badge/%EF%BB%9B%EF%BA%8E%EF%BB%9F%EF%BB%B2%20%EF%BB%9F%EF%BB%B4%EF%BB%A8%EF%BB%9C%EF%BA%B2-%EF%BA%8D%EF%BB%9F%EF%BA%92%EF%BB%B4%EF%BA%8C%EF%BA%94-green?style=for-the-badge&logo=kalilinux)<br>
+![Platform](https://img.shields.io/badge/%EF%BA%84%EF%BB%A7%EF%BA%AA%EF%BA%AE%EF%BB%AE%EF%BB%B3%EF%BA%AA-%EF%BA%8D%EF%BB%9F%EF%BA%92%EF%BB%B4%EF%BA%8C%EF%BA%94-green?style=for-the-badge&logo=android)<br>
+![Python](https://img.shields.io/badge/3.x-%EF%BA%91%EF%BA%8E%EF%BB%B3%EF%BA%9C%EF%BB%AE%EF%BB%A6-blue?style=for-the-badge&logo=python)<br>
+![License](https://img.shields.io/badge/MIT-%EF%BA%8D%EF%BB%9F%EF%BA%98%EF%BA%AE%EF%BA%A7%EF%BB%B4%EF%BA%BA-red?style=for-the-badge)<br>
+![Status](https://img.shields.io/badge/%EF%BB%A7%EF%BA%B8%EF%BB%82-%EF%BA%8D%EF%BB%9F%EF%BA%A4%EF%BA%8E%EF%BB%9F%EF%BA%94-blue?style=for-the-badge)
 
 ---
 
@@ -23,8 +23,9 @@
 
 - [الوصف](#الوصف)
 - [المميزات](#المميزات)
-- [التثبيت على Termux](#التثبيت-على-termux)
-- [التثبيت على Kali Linux](#التثبيت-على-kali-linux)
+- [التثبيت](التثبيت)
+  - [التثبيت على Termux](#التثبيت-على-termux)
+  - [التثبيت على Kali Linux](#التثبيت-على-kali-linux)
 - [التشغيل](#التشغيل)
 - [طريقة الاستخدام](#طريقة-الاستخدام)
 - [مثال](#مثال)
