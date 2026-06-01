@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Subdomain Finder — أداة اكتشاف النطاقات الفرعية
+# 🌐 Subdomain Finder أداة اكتشاف النطاقات الفرعية
 
 **تعمل على نظام Kali Linux و تطبيق Termux**
 
